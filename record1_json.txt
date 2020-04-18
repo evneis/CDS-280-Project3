@@ -1,0 +1,1 @@
+{"Credits":45,"Major":"CDS","Address":{"zip":"17003","city":"Annville","street":"12 st","state":"PA"},"GPA":3.4,"StudentID":1}
